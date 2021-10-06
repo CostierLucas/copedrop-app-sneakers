@@ -6,4 +6,4 @@ A flutter application that references all sneakers releases and raffles.
 
 ## Getting Started
 
-Backed : Firebase, Firestore. 
+Backend : Firebase, Firestore. 
